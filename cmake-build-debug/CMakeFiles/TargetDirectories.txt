@@ -1,0 +1,3 @@
+C:/Users/Vlad-AndreiCojocariu/CLionProjects/pbInfo-solutions/cmake-build-debug/CMakeFiles/pbInfo_solutions.dir
+C:/Users/Vlad-AndreiCojocariu/CLionProjects/pbInfo-solutions/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Vlad-AndreiCojocariu/CLionProjects/pbInfo-solutions/cmake-build-debug/CMakeFiles/rebuild_cache.dir

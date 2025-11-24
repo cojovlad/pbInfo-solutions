@@ -1,0 +1,15 @@
+# ninja log v6
+43	545	7852810818821619	CMakeFiles/pbInfo_solutions.dir/main.cpp.obj	734959cc83508514
+3680	4226	7852810642697192	pbInfo_solutions.exe	988eb3102f1fd735
+49	617	7831118682942361	CMakeFiles/pbInfo_solutions.dir/123.cpp.obj	9b1f9f15873946ab
+37	610	7852805109971735	CMakeFiles/pbInfo_solutions.dir/IX/Elemente-de-baza-ale-limbajului/Operatori-si-expresii/Usoare/939.cpp.obj	628abac1c0779c6
+4	487	7852811503670596	build.ninja	1ebdd22f503748e2
+6	171	7852811521902049	pbInfo_solutions.exe	988eb3102f1fd735
+6	580	7852812829396619	CMakeFiles/pbInfo_solutions.dir/main.cpp.obj	734959cc83508514
+581	746	7852812835146756	pbInfo_solutions.exe	988eb3102f1fd735
+7	482	7852813378122740	CMakeFiles/pbInfo_solutions.dir/main.cpp.obj	734959cc83508514
+483	624	7852813382883406	pbInfo_solutions.exe	988eb3102f1fd735
+7	480	7852813446321683	CMakeFiles/pbInfo_solutions.dir/main.cpp.obj	734959cc83508514
+481	847	7852813451054160	pbInfo_solutions.exe	988eb3102f1fd735
+6	554	7852815840743719	CMakeFiles/pbInfo_solutions.dir/main.cpp.obj	734959cc83508514
+554	716	7852815846224672	pbInfo_solutions.exe	988eb3102f1fd735
