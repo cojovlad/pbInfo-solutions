@@ -3,8 +3,8 @@
 using namespace std;
 
 int main() {
-    int c;
-    cin>>c;
-    cout<<c*1+c*2+c*4;
+    int G,O;
+    cin>>G>>O;
+    cout<<(G+O)<<" "<<G*2+O*4;
     return 0;
 }
