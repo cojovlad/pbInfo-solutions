@@ -1,0 +1,13 @@
+#include <cmath>
+#include <iostream>
+
+using namespace std;
+
+int main() {
+    double n;
+    cin>>n;
+    n*=10;
+    int parteIntreaga=n;
+    cout<<parteIntreaga%10;
+    return 0;
+}

@@ -1,0 +1,13 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    int a, b;
+    cin >> a >> b;
+
+    int aria = a * b;
+    int perimetru = 2 * (a + b);
+
+    cout << aria << " " << perimetru;
+    return 0;
+}

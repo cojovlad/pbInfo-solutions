@@ -1,0 +1,16 @@
+#include <iostream>
+#include <iomanip>
+#include <cmath>
+using namespace std;
+
+int main() {
+    double c1, c2, i;
+    cin >> c1 >> c2 >> i;
+
+    double h = (c1 * c2) / i;
+
+    h = floor(h * 100) / 100;
+
+    cout << fixed << setprecision(2) << h;
+    return 0;
+}

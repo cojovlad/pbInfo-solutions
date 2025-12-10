@@ -1,0 +1,16 @@
+#include <iostream>
+#include <cmath>
+#include <iomanip>
+using namespace std;
+
+int main() {
+    double d1, d2;
+    cin >> d1 >> d2;
+
+    double l = sqrt((d1/2)*(d1/2) + (d2/2)*(d2/2));
+    double perimetru = 4 * l;
+    double aria = (d1 * d2) / 2;
+
+    cout << fixed << setprecision(5) << perimetru << " " << aria;
+    return 0;
+}

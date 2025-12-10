@@ -1,0 +1,13 @@
+#include <cmath>
+#include <iostream>
+
+using namespace std;
+
+long long a, temp;
+
+int main() {
+    cin>>a;
+    temp = a * a + a * a * a * a;
+    cout << (int)(3 * temp / (temp + sqrt(temp)) + sqrt(temp));
+    return 0;
+}
