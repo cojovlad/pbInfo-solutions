@@ -1,0 +1,12 @@
+#include <fstream>
+#include <iostream>
+using namespace std;
+int main() {
+    int a;
+    cin>>a;
+    int z=a/10%10;
+    int u=a%10;
+    int sum=u*10+z;
+    cout<<sum*sum;
+    return 0;
+}
